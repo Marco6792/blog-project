@@ -19,7 +19,7 @@ export default function Home() {
 				</Card>
 				<Card className="dark:bg-gray-900  bg-gray-100 mr-4">
 					<p className="h-[7.3rem] w-[7.3rem] bg-blue-700 rounded-md rotate-[25deg]">
-						<Image src={pic} alt="logo" className="rounded-md h-full"></Image>
+						<Image src={pic} alt="logo" className="rounded-md h-full object-cover"></Image>
 					</p>
 				</Card>
 			</div>
