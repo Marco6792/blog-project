@@ -22,7 +22,7 @@ export default function BlogPost() {
 					TOPIC :{" "}
 				</h1>
 				<Separator orientation="vertical" className="h-[2rem] ml-6"></Separator>
-				<Card className="text-xl p-5 max-md:text-4xl xl:text-3xl xl:max-w-md max-sm:p-3 text-slate-800 dark:text-slate-200 break-all">
+				<Card className="text-xl p-5 max-md:text-4xl xl:text-3xl xl:max-w-xl max-sm:p-3 text-slate-800 dark:text-slate-200 break-all">
 					Prevention and management of Diabetic Foot Ulcer among Diabetic patients in Cameroon.{" "}
 				</Card>
 				<div className=" lg:max-w-5xl mx-auto lg:grid lg:grid-cols-2 xl:space-x-4 max-md:space-y-5">
@@ -57,7 +57,7 @@ export default function BlogPost() {
 
 					<div>
 						<CardTitle className="dark:text-slate-200 mt-[6rem] ">
-							<span className="dark:bg-slate-800 rounded-[50px] w-fit p-4 bg-gray-100 border max-sm:line-clamp-2 leading-loose">
+							<span className="dark:bg-slate-800 rounded-[50px] w-fit p-4 bg-gray-100 border max-sm:line-clamp-2 leading-relax">
 								1.2 STATEMENT OF THE PROBLEM
 							</span>
 						</CardTitle>
@@ -79,7 +79,7 @@ export default function BlogPost() {
 					{/* comment */}
 					<div>
 						<CardTitle className="dark:text-slate-200 mt-[6rem] ">
-							<span className="dark:bg-slate-800 rounded-[50px] w-fit p-4 bg-gray-100 border max-sm:line-clamp-2 leading-loose">
+							<span className="dark:bg-slate-800 rounded-[50px] w-fit p-4 bg-gray-100 border max-sm:line-clamp-2 leading-relax">
 								1.3 SIGNIFICANCE OF THE STUDY
 							</span>
 						</CardTitle>
