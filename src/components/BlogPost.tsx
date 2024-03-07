@@ -4,7 +4,7 @@ import { Separator } from "./ui/separator";
 
 export default function BlogPost() {
 	return (
-		<Card className="lg:max-w-6xl mx-auto  mt-8 border-0 relative max-md:w-full">
+		<Card className="lg:max-w-6xl mx-auto  mt-7 border-0 relative max-md:w-full">
 			<CardTitle className="w-fit p-5 rounded-md grid mx-auto dark:from-blue-500 dark:to-blue-400 bg-gradient-to-tr from-pink-400 to-purple-600 text-white relative">
 				<span>BLOG POST</span>
 				<Separator
@@ -61,7 +61,7 @@ export default function BlogPost() {
 								1.2 STATEMENT OF THE PROBLEM
 							</span>
 						</CardTitle>
-						<Separator orientation="vertical" className="h-[2rem] ml-7"></Separator>
+						<Separator orientation="vertical" className="h-[2rem] ml-9"></Separator>
 						<main className="">
 							<Card className="dark:text-slate-300 text-xl pb-4 border-b-0 p-4">
 								The Diabetic Foot is one of the major complications of diabetes; alterations
@@ -83,7 +83,7 @@ export default function BlogPost() {
 								1.3 SIGNIFICANCE OF THE STUDY
 							</span>
 						</CardTitle>
-						<Separator orientation="vertical" className="h-[2rem] ml-7"></Separator>
+						<Separator orientation="vertical" className="h-[2rem] ml-9"></Separator>
 						<main className="relative">
 							<Card className="dark:text-slate-300 text-xl pb-4 border-b-0 p-4">
 								the significance lies in its potential to improve on the prevention and
