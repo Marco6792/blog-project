@@ -23,13 +23,14 @@ export default function BlogPost() {
 				</h1>
 				<Separator orientation="vertical" className="h-[2rem] ml-6"></Separator>
 				<Card className="text-xl p-5 max-md:text-4xl xl:text-3xl xl:max-w-xl max-sm:p-3 text-slate-800 dark:text-slate-200 break-all dark:bg-gray-900  bg-gray-100">
-					Prevention and management of Diabetic Foot Ulcer among Diabetic patients in Cameroon.{" "}
+					Prevention and management of Diabetic Foot Ulceration among Diabetic patients in
+					Cameroon.{" "}
 				</Card>
 				<div className=" lg:max-w-5xl mx-auto lg:grid lg:grid-cols-2 xl:space-x-4 max-md:space-y-5">
 					<div>
 						<CardTitle className="dark:text-slate-200 mt-[6rem] ">
 							<span className="dark:bg-slate-800 rounded-[50px] w-fit p-4 bg-gray-100 border">
-								<span className="text-slate-500">1.1</span>BACKGROUND
+								1.1 BACKGROUND
 							</span>
 						</CardTitle>
 						<Separator orientation="vertical" className="h-[2rem] ml-5"></Separator>
