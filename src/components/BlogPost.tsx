@@ -22,7 +22,7 @@ export default function BlogPost() {
 					TOPIC :{" "}
 				</h1>
 				<Separator orientation="vertical" className="h-[2rem] ml-6"></Separator>
-				<Card className="text-xl p-5 max-md:text-4xl xl:text-3xl xl:max-w-md max-sm:p-3 text-slate-800 dark:text-slate-200">
+				<Card className="text-xl p-5 max-md:text-4xl xl:text-3xl xl:max-w-md max-sm:p-3 text-slate-800 dark:text-slate-200 break-all">
 					Prevention and management of Diabetic Foot Ulcer among Diabetic patients in Cameroon.{" "}
 				</Card>
 				<div className=" lg:max-w-5xl mx-auto lg:grid lg:grid-cols-2 xl:space-x-4 max-md:space-y-5">
@@ -69,7 +69,7 @@ export default function BlogPost() {
 								progress to ulcers and even amputations , causing mobility and independence
 								limitations in older adults.
 							</Card>
-							<Card className="dark:text-slate-300 text-xl border-t-0 p-4 break-all">
+							<Card className="dark:text-slate-300 text-xl border-t-0 p-4">
 								The purpose of this studies is to assess the prevention and management of
 								Foot ulceration in Diabetic patients in Cameroon hospitals.
 							</Card>
