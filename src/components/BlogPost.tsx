@@ -29,7 +29,7 @@ export default function BlogPost() {
 					<div>
 						<CardTitle className="dark:text-slate-200 mt-[6rem] ">
 							<span className="dark:bg-slate-800 rounded-[50px] w-fit p-4 bg-gray-100 border">
-								<span className="text-slate-700">1.1</span>BACKGROUND
+								<span className="text-slate-500">1.1</span>BACKGROUND
 							</span>
 						</CardTitle>
 						<Separator orientation="vertical" className="h-[2rem] ml-5"></Separator>
