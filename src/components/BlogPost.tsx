@@ -57,7 +57,7 @@ export default function BlogPost() {
 
 					<div>
 						<CardTitle className="dark:text-slate-200 mt-[6rem] ">
-							<span className="dark:bg-slate-800 rounded-[50px] w-fit p-4 bg-gray-100 border max-sm:line-clamp-2 leading-relax">
+							<span className="dark:bg-slate-800 rounded-[50px] w-fit p-4 bg-gray-100 border max-sm:line-clamp-2 leading-loose">
 								1.2 STATEMENT OF THE PROBLEM
 							</span>
 						</CardTitle>
@@ -79,7 +79,7 @@ export default function BlogPost() {
 					{/* comment */}
 					<div>
 						<CardTitle className="dark:text-slate-200 mt-[6rem] ">
-							<span className="dark:bg-slate-800 rounded-[50px] w-fit p-4 bg-gray-100 border max-sm:line-clamp-2 leading-relax">
+							<span className="dark:bg-slate-800 rounded-[50px] w-fit p-4 bg-gray-100 border max-sm:line-clamp-2 leading-loose">
 								1.3 SIGNIFICANCE OF THE STUDY
 							</span>
 						</CardTitle>
