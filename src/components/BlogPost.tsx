@@ -110,7 +110,7 @@ export default function BlogPost() {
 								orientation="vertical"
 								className="h-[6.6rem] rotate-[40deg] ml-[6rem] absolute bottom-0 right-[6rem]"></Separator>
 						</main>
-						<Card className="text-xl p-4 font-bold flex justify-center -mt-3 dark:bg-gray-900  bg-gray-100">
+						<Card className="text-xl p-4 font-bold flex justify-center -mt-3 bg-secondary">
 							END
 						</Card>
 					</div>
