@@ -22,7 +22,7 @@ export default function BlogPost() {
 					TOPIC :{" "}
 				</h1>
 				<Separator orientation="vertical" className="h-[2rem] ml-6"></Separator>
-				<Card className="text-xl p-5 max-md:text-4xl xl:text-3xl xl:max-w-xl max-sm:p-3 text-slate-800 dark:text-slate-200 break-all">
+				<Card className="text-xl p-5 max-md:text-4xl xl:text-3xl xl:max-w-xl max-sm:p-3 text-slate-800 dark:text-slate-200 break-all dark:bg-gray-900  bg-gray-100">
 					Prevention and management of Diabetic Foot Ulcer among Diabetic patients in Cameroon.{" "}
 				</Card>
 				<div className=" lg:max-w-5xl mx-auto lg:grid lg:grid-cols-2 xl:space-x-4 max-md:space-y-5">
