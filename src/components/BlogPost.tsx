@@ -69,7 +69,7 @@ export default function BlogPost() {
 								progress to ulcers and even amputations , causing mobility and independence
 								limitations in older adults.
 							</Card>
-							<Card className="dark:text-slate-300 text-xl border-t-0 p-4">
+							<Card className="dark:text-slate-300 text-xl border-t-0 p-4 break-all">
 								The purpose of this studies is to assess the prevention and management of
 								Foot ulceration in Diabetic patients in Cameroon hospitals.
 							</Card>
