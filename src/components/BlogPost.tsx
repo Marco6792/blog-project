@@ -120,7 +120,7 @@ export default function BlogPost() {
 			</CardContent>
 			<footer className="w-full">
 				<Card className="p-10 mt-12 border-none max-w-md mx-auto flex justify-center items-center">
-					<p className="text-2xl">&copy; {new Date().getFullYear()} blog.</p>
+					<p className="text-2xl">&copy; 2023 blog.</p>
 				</Card>
 			</footer>
 		</Card>
